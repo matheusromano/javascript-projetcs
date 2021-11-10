@@ -13,3 +13,6 @@ Some javascript projects to consolidate my knowledge on this language
 ### My Stack Project [See](/my-stack)
 ![my-stack](https://user-images.githubusercontent.com/69260226/141014129-010eb86b-7432-4992-a745-2b083c2af14d.png)
 - Just open the index.html with liveserver
+## Nav-bar Project [See](/nav-bar)
+![navbar](https://user-images.githubusercontent.com/69260226/141141007-281bf142-81ac-47f9-9f1a-a7277754992c.png)
+- Just open the index.html with liveserver
