@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My video</title>
+
+    <!-- styles -->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+      <!-- preloader -->
+      <div class="preloader">
+        <img src="https://media3.giphy.com/media/qMntr6DEZ8E4o/giphy.gif" alt="preloader" width="480" height="480" />   
+      </div>
+    <!-- header -->
+    <header>
+      <video class="video-container" controls muted autoplay loop>
+        <source src="./video-edit.mp4" type="video/mp4" />
+      </video>
+      <h1>Brazillian Nature</h1>
+      <!-- video switch -->
+      <button class="switch-btn">
+          <span>
+              play
+          </span>
+          <span>
+              pause
+          </span>
+          <span class="switch"></span>
+      </button>
+    </header>
+    <!-- javascript -->
+    <script src="app.js"></script>
+  </body>
+</html>
