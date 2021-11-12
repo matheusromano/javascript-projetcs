@@ -32,3 +32,8 @@ Some javascript projects to consolidate my knowledge on this language
 ### Skateshop-menu Project [See](/skateshop-menu)
 ![skateshop](https://user-images.githubusercontent.com/69260226/141516745-9d0eb5cc-6c8c-4c0e-b386-daa1ed195384.png)
 - Just open the index.html with liveserver
+
+
+### Background-video Project [See](/video-background)
+![video](https://user-images.githubusercontent.com/69260226/141538164-809bce88-e492-46d0-b8d5-a67877eb5b86.png)
+- Just open the index.html with liveserver
