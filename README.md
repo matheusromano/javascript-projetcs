@@ -28,3 +28,7 @@ Some javascript projects to consolidate my knowledge on this language
 ### Frequently questions Project[See] (/questions-project)
 ![questions](https://user-images.githubusercontent.com/69260226/141479026-bea7f243-c45e-4847-aa55-3f4856252e69.png)
 - Just open the index.html with liveserver
+
+### Skateshop-menu Project [See] (/skateshop-menu)
+![skateshop](https://user-images.githubusercontent.com/69260226/141516745-9d0eb5cc-6c8c-4c0e-b386-daa1ed195384.png)
+- Just open the index.html with liveserver
