@@ -24,3 +24,7 @@ Some javascript projects to consolidate my knowledge on this language
 ### Modal-presentation Project [See](/modal-presentation)
 ![modal](https://user-images.githubusercontent.com/69260226/141149092-f6f7ba65-1842-4b92-a055-e9b56d6e0bd2.png)
 - Just open the index.html with liveserver
+
+### Frequently questions Project[See] (/questions-project)
+![questions](https://user-images.githubusercontent.com/69260226/141479026-bea7f243-c45e-4847-aa55-3f4856252e69.png)
+- Just open the index.html with liveserver
