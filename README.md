@@ -17,7 +17,10 @@ Some javascript projects to consolidate my knowledge on this language
 ![navbar](https://user-images.githubusercontent.com/69260226/141141007-281bf142-81ac-47f9-9f1a-a7277754992c.png)
 - Just open the index.html with liveserver
 
-## Side-bar Project [See](/side-bar)
+### Side-bar Project [See](/side-bar)
 ![sidebar](https://user-images.githubusercontent.com/69260226/141141524-a48bd02d-adf8-47d2-b9b7-3e25b4264b23.png)
 - Just open the index.html with liveserver
 
+### Modal-presentation Project [See](/modal-presentation)
+![modal](https://user-images.githubusercontent.com/69260226/141149092-f6f7ba65-1842-4b92-a055-e9b56d6e0bd2.png)
+- Just open the index.html with liveserver
