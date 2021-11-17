@@ -37,3 +37,7 @@ Some javascript projects to consolidate my knowledge on this language
 ### Background-video Project [See](/video-background)
 ![video](https://user-images.githubusercontent.com/69260226/141538164-809bce88-e492-46d0-b8d5-a67877eb5b86.png)
 - Just open the index.html with liveserver
+
+### Brazil Travel Agency Project [See](/brazil-travel-agency)
+![bta](https://user-images.githubusercontent.com/69260226/142199949-cfa2110d-5a2f-4611-8321-da9ad7fb0267.png)
+- Just open the index.html with liveserver
