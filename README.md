@@ -41,3 +41,8 @@ Some javascript projects to consolidate my knowledge on this language
 ### Brazil Travel Agency Project [See](/brazil-travel-agency)
 ![bta](https://user-images.githubusercontent.com/69260226/142199949-cfa2110d-5a2f-4611-8321-da9ad7fb0267.png)
 - Just open the index.html with liveserver
+
+
+### Comapany tab Project [See](/comapany-tab)
+![tab](https://user-images.githubusercontent.com/69260226/142421519-c4a6979f-f0d9-4fd8-ba74-ef54f895f8a5.png)
+- Just open the index.html with liveserver
