@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tabs</title>
+
+    <!-- styles -->
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <section>
+      <div class="title">
+        <h2>About</h2>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor,
+          tempore.
+        </p>
+      </div>
+
+      <div class="about-center section-center">
+        <article class="about-img">
+          <img src="./company.png" alt="about picture" />
+        </article>
+        <article class="about">
+          <!-- button container -->
+          <div class="btn-container">
+            <button class="tab-btn active" data-id="history">history</button>
+            <button class="tab-btn" data-id="vision">vision</button>
+            <button class="tab-btn" data-id="goals">goals</button>
+          </div>
+          <article class="about-content">
+            <!-- single item -->
+            <div class="content active" id="history">
+              <h4>history</h4>
+              <p>
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+                Consequuntur est blanditiis ullam, eligendi beatae maxime
+                accusamus odit debitis ipsa exercitationem laboriosam at totam
+                officiis nesciunt rem impedit aliquid amet dicta quo assumenda!
+                Totam nisi accusamus libero, dignissimos nam numquam eligendi
+                unde vero, voluptates autem quibusdam sapiente modi obcaecati
+                excepturi eveniet!
+              </p>
+            </div>
+            <!-- end of single item -->
+            <!-- single item -->
+            <div class="content" id="vision">
+              <h4>vision</h4>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni
+                harum eveniet a optio nostrum consectetur doloribus odit quas
+                quasi non.|
+              </p>
+              <ul>
+                <li>item list</li>
+                <li>item list</li>
+                <li>item list</li>
+              </ul>
+              <br>
+            </div>
+            <!-- end of single item -->
+            <!-- single item -->
+            <div class="content" id="goals">
+              <h4>goals</h4>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Assumenda temporibus, tenetur odit consectetur quia praesentium
+                illum amet reiciendis quasi harum sapiente sequi sunt quae
+                veritatis vel! Mollitia eligendi ducimus laboriosam modi sequi
+                aliquid consequatur eius accusantium error, ab eveniet delectus!
+              </p>
+            </div>
+            <!-- end of single item -->
+          </article>
+        </article>
+      </div>
+    </section>
+    <!-- javascript -->
+    <script src="app.js"></script>
+  </body>
+</html>
