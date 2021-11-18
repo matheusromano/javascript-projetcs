@@ -46,3 +46,8 @@ Some javascript projects to consolidate my knowledge on this language
 ### Comapany tab Project [See](/comapany-tab)
 ![tab](https://user-images.githubusercontent.com/69260226/142421519-c4a6979f-f0d9-4fd8-ba74-ef54f895f8a5.png)
 - Just open the index.html with liveserver
+
+### Vacation Countdown [see](/vacation-countdown)
+![BeFunky-collage](https://user-images.githubusercontent.com/69260226/142438885-f95478dd-ff76-4b6a-8412-d5c88b04ec1b.png)
+- Just open the index.html with liveserver
+
