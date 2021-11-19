@@ -55,3 +55,8 @@ Some javascript projects to consolidate my knowledge on this language
 ![ipsum](https://user-images.githubusercontent.com/69260226/142448112-ef11b75f-23c0-4691-ad56-83472baab07c.png)
 - Just open the index.html with liveserver
 
+### Playlist Project(CRUD) [See](/playlist)
+![playlist](https://user-images.githubusercontent.com/69260226/142671391-376b8913-2f05-4386-9bbd-dc9300059d14.png)
+- Just open the index.html with liveserver
+
+
