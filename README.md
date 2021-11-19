@@ -51,3 +51,7 @@ Some javascript projects to consolidate my knowledge on this language
 ![BeFunky-collage](https://user-images.githubusercontent.com/69260226/142438885-f95478dd-ff76-4b6a-8412-d5c88b04ec1b.png)
 - Just open the index.html with liveserver
 
+### Lorem Ipsum Generator Project [See](/lorem-generator)
+![ipsum](https://user-images.githubusercontent.com/69260226/142448112-ef11b75f-23c0-4691-ad56-83472baab07c.png)
+- Just open the index.html with liveserver
+
