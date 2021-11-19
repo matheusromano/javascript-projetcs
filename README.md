@@ -59,4 +59,7 @@ Some javascript projects to consolidate my knowledge on this language
 ![playlist](https://user-images.githubusercontent.com/69260226/142671391-376b8913-2f05-4386-9bbd-dc9300059d14.png)
 - Just open the index.html with liveserver
 
+### Travel Goals [See](/carrousel)
+![travel](https://user-images.githubusercontent.com/69260226/142683210-f9d3a42e-6348-4db7-a53c-422dfc7827fc.png)
+- Just open the index.html with liveserver
 
